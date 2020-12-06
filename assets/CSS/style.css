@@ -1,0 +1,12 @@
+h1 {
+    color: #4aaaa5;
+    font-family: "Times", "serif";
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.navbar-brand {
+    font-family: "Times", "serif";
+    font-size: 30px;
+    font-weight: 800;
+}
