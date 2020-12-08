@@ -6,6 +6,11 @@ h1 {
     font-weight: 800;
 }
 
+body {
+    background-image: url("../images/ignasi_pattern_s.png");
+    background-color: #cccccc;
+  }
+
   
 
 .navbar-brand {
