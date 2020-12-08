@@ -10,6 +10,8 @@ h1 {
     font-weight: 800;
 }
 
+  
+
 .navbar-brand {
     font-family: "Times", "serif";
     font-size: 30px;
@@ -17,7 +19,11 @@ h1 {
 }
 
 .img-fluid {
-    padding: 10px;
+    padding-right: 20px;
+}
+
+.container {
+    margin-bottom: 50px;
 }
 
 .jumbotron {
@@ -28,4 +34,15 @@ h1 {
 .btn {
     background-color: #4aaaa5;
     color: white;
+}
+
+.card {
+    background-color: gray;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card-header {
+    background-color: #4aaaa5;
+    max-height: 5px;
 }
