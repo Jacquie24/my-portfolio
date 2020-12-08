@@ -44,5 +44,5 @@ h1 {
 
 .card-header {
     background-color: #4aaaa5;
-    max-height: 5px;
+    padding: .25rem 1.25rem;
 }
