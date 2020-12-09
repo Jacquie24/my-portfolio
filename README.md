@@ -10,7 +10,11 @@ Lastly, I ran the page through the html validation service at [W3C](https://vali
 To see the final result, you can view the webpages live at [my-portfolio](https://jacquie24.github.io/my-portfolio/).
 
 ## Usage
-When the user clicks on the link, the page defaults to the About Me screen as the home page.  At the top are three navigation links, titled "About," "Portfolio," and "Contact."  "Portfolio" will take the user to the Portfolio screen to view my pictures. "Contact" will take the user to the Contact screen, where there is a fillable form to provide contact information.  "About" brings the user back to the About Me screen.  In addition, by clicking on my name "Jacquie Gutierrez" in the upper left hand corner, it will bring the user to the About Me (default home page).
+When the user clicks on the link, the page defaults to the About Me screen as the home page.  At the top are three navigation links, titled "About," "Portfolio," and "Contact."  
+"Portfolio" will take the user to the Portfolio screen to view my pictures. ![Portfolio](assets/images/my-portfolio-portfolio.png)
+"Contact" will take the user to the Contact screen, where there is a fillable form to provide contact information. ![Contact](assets/images/my-portfolio-contact.png)
+"About" brings the user back to the About Me screen.  ![About](assets/images/my-portfolio-about.png)
+In addition, by clicking on my name "Jacquie Gutierrez" in the upper left hand corner, it will bring the user to the About Me (default home page).
 
 ## Installation
 To view this webpage and any others I've designed, check out my GitHub repository at [Jacquie24](https://github.com/Jacquie24?tab=repositories).  
