@@ -39,7 +39,6 @@ body {
 
 .card {
     background-color: gray;
-    color: whitesmoke;
     text-align: center;
 }
 
@@ -47,3 +46,4 @@ body {
     background-color: #4aaaa5;
     padding: .25rem 1.25rem;
 }
+
