@@ -5,6 +5,8 @@ The goal of this project was to create three linking web pages utilizing the dyn
 
 The finished pages feature a navigation bar at the top containing three navigation links.  Each page features different content, but they bear similar color schemes and layouts, which gives the viewer a feeling of continuity.
 
+Lastly, I ran the page through the html validation service at [W3C](https://validator.w3.org/) and made the suggested changes in my code.
+
 To see the final result, you can view the webpages live at [my-portfolio](https://jacquie24.github.io/my-portfolio/).
 
 ## Usage
